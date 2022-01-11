@@ -1,4 +1,4 @@
-com.example.minim2exemple
+com.example.Minim2DSA
 anim abc_fade_in
 anim abc_fade_out
 anim abc_grow_fade_in_from_bottom

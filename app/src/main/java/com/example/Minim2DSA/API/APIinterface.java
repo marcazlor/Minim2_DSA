@@ -14,5 +14,5 @@ public interface APIinterface {
     Call<User> getInfoUser(@Path("username") String username);
 
     @GET("users/{username}/repositories")
-    Call<List<Repository>> getRepos(@Path("username") String username);
+    Call<List<Repository>> getRepositories(@Path("username") String username);
 }

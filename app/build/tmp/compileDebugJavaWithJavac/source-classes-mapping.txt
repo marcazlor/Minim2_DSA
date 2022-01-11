@@ -1,22 +1,22 @@
-com/example/minim2exemple/Error.java
- com.example.minim2exemple.Error
-com/example/minim2exemple/API/APIinterface.java
- com.example.minim2exemple.API.APIinterface
-com/example/minim2exemple/ReposActivity.java
- com.example.minim2exemple.ReposActivity
- com.example.minim2exemple.ReposActivity$1
- com.example.minim2exemple.ReposActivity$2
-com/example/minim2exemple/API/User.java
- com.example.minim2exemple.API.User
-com/example/minim2exemple/UserList.java
- com.example.minim2exemple.UserList
-com/example/minim2exemple/BuildConfig.java
- com.example.minim2exemple.BuildConfig
-com/example/minim2exemple/API/Repository.java
- com.example.minim2exemple.API.Repository
-com/example/minim2exemple/ListAdapter.java
- com.example.minim2exemple.ListAdapter
- com.example.minim2exemple.ListAdapter$ViewHolder
-com/example/minim2exemple/MainActivity.java
- com.example.minim2exemple.MainActivity
- com.example.minim2exemple.MainActivity$1
+com/example/Minim2DSA/BuildConfig.java
+ com.example.Minim2DSA.BuildConfig
+com/example/Minim2DSA/API/Repository.java
+ com.example.Minim2DSA.API.Repository
+com/example/Minim2DSA/UserList.java
+ com.example.Minim2DSA.UserList
+com/example/Minim2DSA/ListAdapter.java
+ com.example.Minim2DSA.ListAdapter
+ com.example.Minim2DSA.ListAdapter$ViewHolder
+com/example/Minim2DSA/API/User.java
+ com.example.Minim2DSA.API.User
+com/example/Minim2DSA/ReposActivity.java
+ com.example.Minim2DSA.ReposActivity
+ com.example.Minim2DSA.ReposActivity$1
+ com.example.Minim2DSA.ReposActivity$2
+com/example/Minim2DSA/MainActivity.java
+ com.example.Minim2DSA.MainActivity
+ com.example.Minim2DSA.MainActivity$1
+com/example/Minim2DSA/Error.java
+ com.example.Minim2DSA.Error
+com/example/Minim2DSA/API/APIinterface.java
+ com.example.Minim2DSA.API.APIinterface

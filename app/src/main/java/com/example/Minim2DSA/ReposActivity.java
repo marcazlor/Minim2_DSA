@@ -70,7 +70,7 @@ public class ReposActivity extends AppCompatActivity {
         Gson gson2 = new GsonBuilder().setLenient().create();
         Retrofit retrofit2 = new Retrofit.Builder().baseUrl(APIinterface.BASE_URL).addConverterFactory(GsonConverterFactory.create(gson2)).build();
         APIinterface gerritAPI2 = retrofit2.create(APIinterface.class);
-        Call<List<Repository>> call2 = gerritAPI2.getRepos(userName);
+        Call<List<Repository>> call2 = gerritAPI2.getRepositories(userName);
         call2.enqueue(new Callback<List<Repository>>() {
             @Override
             public void onResponse(Call<List<Repository>> call2, Response<List<Repository>> response) {

@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 ProgressBar spinner;
                 spinner = (ProgressBar)findViewById(R.id.progressBar1);
-                //spinner.setVisibility(View.VISIBLE);
+                spinner.setVisibility(View.VISIBLE);
                 String userName = user.getText().toString();
                 SharedPreferences sharedPreferences = getSharedPreferences("userName", Context.MODE_PRIVATE);
                 SharedPreferences.Editor editor = sharedPreferences.edit();

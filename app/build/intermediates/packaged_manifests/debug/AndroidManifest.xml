@@ -22,13 +22,13 @@
         android:testOnly="true"
         android:theme="@style/Theme.Minim2Exemple" >
         <activity
-            android:name="com.example.minim2exemple.Error"
+            android:name="com.example.Minim2DSA.Error"
             android:exported="true" />
         <activity
-            android:name="com.example.minim2exemple.ReposActivity"
+            android:name="com.example.Minim2DSA.ReposActivity"
             android:exported="true" />
         <activity
-            android:name="com.example.minim2exemple.MainActivity"
+            android:name="com.example.Minim2DSA.MainActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
