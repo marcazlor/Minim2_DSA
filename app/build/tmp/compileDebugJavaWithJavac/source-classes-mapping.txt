@@ -1,0 +1,22 @@
+com/example/minim2exemple/Error.java
+ com.example.minim2exemple.Error
+com/example/minim2exemple/API/APIinterface.java
+ com.example.minim2exemple.API.APIinterface
+com/example/minim2exemple/ReposActivity.java
+ com.example.minim2exemple.ReposActivity
+ com.example.minim2exemple.ReposActivity$1
+ com.example.minim2exemple.ReposActivity$2
+com/example/minim2exemple/API/User.java
+ com.example.minim2exemple.API.User
+com/example/minim2exemple/UserList.java
+ com.example.minim2exemple.UserList
+com/example/minim2exemple/BuildConfig.java
+ com.example.minim2exemple.BuildConfig
+com/example/minim2exemple/API/Repository.java
+ com.example.minim2exemple.API.Repository
+com/example/minim2exemple/ListAdapter.java
+ com.example.minim2exemple.ListAdapter
+ com.example.minim2exemple.ListAdapter$ViewHolder
+com/example/minim2exemple/MainActivity.java
+ com.example.minim2exemple.MainActivity
+ com.example.minim2exemple.MainActivity$1
